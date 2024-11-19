@@ -1,0 +1,23 @@
+{
+  "name": "word-web-mobile",
+  "version": "1.0.0",
+  "description": "word web for mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melisaysnuh/word-web-mobile.git"
+  },
+  "keywords": [
+    "word",
+    "anagram"
+  ],
+  "author": "Melissa Cessna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melisaysnuh/word-web-mobile/issues"
+  },
+  "homepage": "https://github.com/Melisaysnuh/word-web-mobile#readme"
+}
